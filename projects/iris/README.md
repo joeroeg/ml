@@ -1,4 +1,3 @@
-```markdown
 # Iris Dataset Classification Project
 
 ## Overview
@@ -44,4 +43,3 @@ F1-score: 0.97
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```

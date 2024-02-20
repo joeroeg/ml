@@ -1,5 +1,3 @@
-Sure! Below is an updated version of the README file with added images and more description about the project:
-
 ```markdown
 # Iris Dataset Classification Project
 

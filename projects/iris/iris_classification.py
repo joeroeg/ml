@@ -30,3 +30,4 @@ ax.set_zlabel("3rd Eigenvector")
 ax.zaxis.set_ticklabels([])
 
 plt.show()
+
